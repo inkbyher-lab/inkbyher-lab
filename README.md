@@ -26,4 +26,3 @@ KiteFlow built its product rapidly to capture market share, prioritizing feature
 ## finished projects 
 - Nova_pay (my favourite project yet, my school capstone project, I will keep trying to upgrade it as much as i can.)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=inkbyher-lab&theme=highcontrast)](https://git.io/streak-stats)
